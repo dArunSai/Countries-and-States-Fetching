@@ -1,0 +1,11 @@
+body {
+  text-align: center;
+}
+ol {
+  list-style-position: inside; /* Numbers inside the content box */
+  text-align: center; /* Add space for alignment */
+}
+ol li {
+  text-align: center; /* Ensure text is aligned after numbers */
+  /* Indents content from numbers */
+}
